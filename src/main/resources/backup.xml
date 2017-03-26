@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <table name="student">
+        <column>id</column>
+        <column>name</column>
+        <column>sex</column>
+        <column>birthday</column>
+        <row>
+            <value>1</value>
+            <value>2</value>
+            <value>3</value>
+            <value>4</value>
+        </row>
+    </table>
+</dataset>
